@@ -1,0 +1,9 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const LOGIN = "LOGIN";
+export const LOGIN_ERROR = "LOGIN_ERROR";
+export const SIGN_UP_ERROR = "SIGN_UP_ERROR";
+export const SIGN_OUT = "SIGN_OUT";
+export const RESET_LOGIN_STATUS = "RESET_LOGIN_STATUS";
+export const RESET_SIGNUP_STATUS = "RESET_SIGNUP_STATUS";
+export const VERIFICATION = "VERIFICATION";
+export const RESET_VERIFICATION = "RESET_VERIFICATION";
